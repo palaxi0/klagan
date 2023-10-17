@@ -1,4 +1,4 @@
-# Simple Baseic selenium scrapping wikipedia
+# Simple Basic selenium scrapping wikipedia
 
 To run it, simply create a new venv
 Run the requirements.txt with pip 
