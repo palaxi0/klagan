@@ -5,8 +5,9 @@ Run the requirements.txt with pip
 
 $ pip install -r requirements.txt
 
-Run 
+Run from the root
 
-python -m unittest test_auto_search.Test_Klagan
+pytest -v 
 
 That would cover the selenium part
+
