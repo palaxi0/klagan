@@ -11,3 +11,7 @@ pytest -v
 
 That would cover the selenium part
 
+For the API part
+With the same requirements, just run, pytest petRetriever.py
+
+
